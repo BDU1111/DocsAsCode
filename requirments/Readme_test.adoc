@@ -34,6 +34,6 @@ image::images/Roadmap.png[Roadmap]
 |===
 
 == API проекта
-link:api/OpenApi_Sunset.yaml[API]
+link:API/OpenApi_Sunset.yaml[API]
 
 == Диаграммы
