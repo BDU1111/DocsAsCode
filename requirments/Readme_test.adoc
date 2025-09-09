@@ -37,3 +37,5 @@ image::images/Roadmap.png[Roadmap]
 link:API/OpenApi_Sunset.yaml[API]
 
 == Диаграммы
+. Диаграмма 1
+. Диаграмма 2
